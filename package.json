@@ -116,7 +116,7 @@
     "immutable": "4.0.0-rc.2",
     "invariant": "2.2.2",
     "ip": "1.1.5",
-    "lodash": "4.17.4",
+    "lodash": "4.17.15",
     "material-ui": "^0.19.4",
     "minimist": "1.2.0",
     "react": "15.6.1",
